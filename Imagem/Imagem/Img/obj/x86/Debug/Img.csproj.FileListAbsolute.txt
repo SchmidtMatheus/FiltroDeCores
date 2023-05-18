@@ -1,0 +1,28 @@
+D:\Estudo C#\Imagem\Img\bin\Debug\Img.exe
+D:\Estudo C#\Imagem\Img\bin\Debug\Img.pdb
+D:\Estudo C#\Imagem\Img\obj\x86\Debug\Img.exe
+D:\Estudo C#\Imagem\Img\obj\x86\Debug\Img.pdb
+D:\OneDrive\UNESC\Curso de Cienca da Computacao\Computacao Grafica\Estudo C#\Imagem\Img\bin\Debug\Img.exe
+D:\OneDrive\UNESC\Curso de Cienca da Computacao\Computacao Grafica\Estudo C#\Imagem\Img\bin\Debug\Img.pdb
+D:\OneDrive\UNESC\Curso de Cienca da Computacao\Computacao Grafica\Estudo C#\Imagem\Img\obj\x86\Debug\Img.exe
+D:\OneDrive\UNESC\Curso de Cienca da Computacao\Computacao Grafica\Estudo C#\Imagem\Img\obj\x86\Debug\Img.pdb
+C:\Users\kinho\OneDrive\UNESC\Curso de Cienca da Computacao\Computacao Grafica\Estudo C#\Imagem\Img\bin\Debug\Img.exe
+C:\Users\kinho\OneDrive\UNESC\Curso de Cienca da Computacao\Computacao Grafica\Estudo C#\Imagem\Img\bin\Debug\Img.pdb
+C:\Users\kinho\OneDrive\UNESC\Curso de Cienca da Computacao\Computacao Grafica\Estudo C#\Imagem\Img\obj\x86\Debug\Img.csprojAssemblyReference.cache
+C:\Users\kinho\OneDrive\UNESC\Curso de Cienca da Computacao\Computacao Grafica\Estudo C#\Imagem\Img\obj\x86\Debug\Img.csproj.CoreCompileInputs.cache
+C:\Users\kinho\OneDrive\UNESC\Curso de Cienca da Computacao\Computacao Grafica\Estudo C#\Imagem\Img\obj\x86\Debug\Img.exe
+C:\Users\kinho\OneDrive\UNESC\Curso de Cienca da Computacao\Computacao Grafica\Estudo C#\Imagem\Img\obj\x86\Debug\Img.pdb
+C:\Users\kinho\OneDrive\UNESC\Curso de Ciencia da Computacao\Computacao Grafica\Estudo C#\Imagem\Img\bin\Debug\Img.exe
+C:\Users\kinho\OneDrive\UNESC\Curso de Ciencia da Computacao\Computacao Grafica\Estudo C#\Imagem\Img\bin\Debug\Img.pdb
+C:\Users\kinho\OneDrive\UNESC\Curso de Ciencia da Computacao\Computacao Grafica\Estudo C#\Imagem\Img\obj\x86\Debug\Img.csprojAssemblyReference.cache
+C:\Users\kinho\OneDrive\UNESC\Curso de Ciencia da Computacao\Computacao Grafica\Estudo C#\Imagem\Img\obj\x86\Debug\Img.csproj.CoreCompileInputs.cache
+C:\Users\kinho\OneDrive\UNESC\Curso de Ciencia da Computacao\Computacao Grafica\Estudo C#\Imagem\Img\obj\x86\Debug\Img.exe
+C:\Users\kinho\OneDrive\UNESC\Curso de Ciencia da Computacao\Computacao Grafica\Estudo C#\Imagem\Img\obj\x86\Debug\Img.pdb
+C:\Users\lab101a\Downloads\Imagem\Imagem\Img\bin\Debug\Img.exe.config
+C:\Users\lab101a\Downloads\Imagem\Imagem\Img\bin\Debug\Img.exe
+C:\Users\lab101a\Downloads\Imagem\Imagem\Img\bin\Debug\Img.pdb
+C:\Users\lab101a\Downloads\Imagem\Imagem\Img\obj\x86\Debug\Img.csproj.AssemblyReference.cache
+C:\Users\lab101a\Downloads\Imagem\Imagem\Img\obj\x86\Debug\Img.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab101a\Downloads\Imagem\Imagem\Img\obj\x86\Debug\Img.csproj.CoreCompileInputs.cache
+C:\Users\lab101a\Downloads\Imagem\Imagem\Img\obj\x86\Debug\Img.exe
+C:\Users\lab101a\Downloads\Imagem\Imagem\Img\obj\x86\Debug\Img.pdb
